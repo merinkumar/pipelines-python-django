@@ -1,4 +1,6 @@
 [![Build Status](https://dev.azure.com/merinDevOps/project1/_apis/build/status/merinkumar.pipelines-python-django)](https://dev.azure.com/merinDevOps/project1/_build/latest?definitionId=1)
+https://dev.azure.com/merinDevOps/project1/_apis/build/status/merinkumar.pipelines-python-django
+https://dev.azure.com/merinDevOps/project1/_apis/build/status/merinkumar.pipelines-python-django?branchName=master
 
 # Sample Python app for Azure Pipelines docs
 
